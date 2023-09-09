@@ -8,7 +8,7 @@ University of Virginia, Wise
 works on python 3
 
 Execution instructions:
-        execution command:      python3 Ass4.py
+        execution command:      python3 PythonBlockchain.py
 
 
 NB: The indexing of the number of blocks begins from 1
