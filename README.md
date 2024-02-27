@@ -1,6 +1,6 @@
 # jm2jy_python_blockchain
 
-contact: jm2jy@uvawise.edu
+contact: https://www.linkedin.com/in/jasonmh22345/
 
 Python 3 blockchain implementation. Create, validate blocks. Blocks in "jm2jy_Blockchain" folder. Continuous execution. Chain validation checks for hash integrity. Use `python3 PythonBlockchain.py`.
 
