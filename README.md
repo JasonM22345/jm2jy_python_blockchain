@@ -75,5 +75,3 @@ Once the program starts, users can interact with the blockchain through the foll
 - The indexing of blocks starts from 1.
 - The chain becomes invalid if the stored hash of a block does not match the recalculated hash of the previous block.
 
-## License
-This project is open-source and can be modified for learning purposes.
