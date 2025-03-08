@@ -1,7 +1,4 @@
 """
-Jason Mensah-Homiah
-University of Virginia, Wise
-
 -- Check Readme
 
 
